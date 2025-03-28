@@ -1,4 +1,4 @@
-# Novi Labs Data Processing and Loading Pipeline
+# NoviLabs Data Processing and Loading Pipeline
 
 This project processes an input CSV file containing oil well data, cleans and validates it, and then loads the processed data into a PostgreSQL database. The solution is containerized using Docker and orchestrated with Docker Compose.
 
